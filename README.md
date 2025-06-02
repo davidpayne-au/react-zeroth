@@ -2,7 +2,16 @@
 
 This is a React app in typescript created by vite ready for you to customise and extend.
 
-It includes:
+Replace the link to the deployed github pages app with your own.
+
+<https://davidpayne-au.github.io/react-zeroth/>
+
+Replace the build status badge with your own.
+
+[![React CI/CD](https://github.com/davidpayne-au/react-zeroth/actions/workflows/cicd.yml/badge.svg)](https://github.com/davidpayne-au/react-zeroth/actions/workflows/cicd.yml)
+
+
+This react template repo includes:
 - Vite
 - React
 - Typescript
