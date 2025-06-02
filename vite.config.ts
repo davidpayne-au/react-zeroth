@@ -9,4 +9,7 @@ export default defineConfig({
     tailwindcss()
   ],
   base: './',
+  server: {
+    port: 3000, // Set the dev server to listen on port 3000, this is also set in the devcontainer.json
+  }
 })
